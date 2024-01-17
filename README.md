@@ -8,7 +8,11 @@ A chip8 emulator written in C using SDL.
 -uses the lightweight graphics library SDL
 
 ### TO USE:
-Modify the makefile and include paths as needed, and build.
+a) Modify the makefile and include paths as needed, and build.
+
+or
+
+b) use the provided executable, enjoy!
 
 #### LICENSE:
 MIT
