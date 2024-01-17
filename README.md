@@ -1,7 +1,7 @@
 # Chip8-Emulator
 A chip8 emulator written in C using SDL.
 
-### Overview
+### OVERVIEW:
 
 -implemented in the c(had) language
 
@@ -10,5 +10,5 @@ A chip8 emulator written in C using SDL.
 ### TO USE:
 Modify the makefile and include paths as needed.
 
-
-
+#### LICENSE:
+MIT
