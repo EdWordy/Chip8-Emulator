@@ -5,7 +5,7 @@ A chip8 emulator written in C using SDL2.
 
 -implemented in the c(had) language
 
--uses the lightweight graphics library SDL
+-uses the lightweight graphics library SDL2
 
 ### TO USE:
 a) Modify the makefile and include paths as needed, and build.
