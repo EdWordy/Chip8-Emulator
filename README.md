@@ -12,7 +12,7 @@ a) Modify the makefile and include paths as needed, and build.
 
   or
 
-b) use the provided executable in the format "chip8 <rom-name>" from the command line; enjoy!
+b) use the provided executable in the format "chip8 rom-name" from the command line; enjoy!
 
 #### LICENSE:
 MIT
