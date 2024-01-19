@@ -1,5 +1,5 @@
 # Chip8-Emulator
-A chip8 emulator written in C using SDL.
+A chip8 emulator written in C using SDL2.
 
 ### OVERVIEW:
 
